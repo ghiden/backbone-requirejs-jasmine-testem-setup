@@ -4,7 +4,7 @@ require.config({
   paths: {
     jquery: 'lib/jquery.min',
     underscore: 'lib/underscore-min',
-    backbone: 'lib/backbone-min',
+    backbone: 'lib/backbone-0.9.2',
     spec: '../../test/spec'
   },
   shim: {
